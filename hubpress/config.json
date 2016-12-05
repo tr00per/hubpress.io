@@ -1,10 +1,24 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "tr00per",
+    "repositoryName": "tr00per.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "World Domination Project",
+    "description": "One post at a time.",
+    "logo": "https://lh3.googleusercontent.com/rQuIpmcnwuTjektGc0rzmDc9YRApKERvjFrUAULzDPrvGeatmOxZxnVTobYFTJN2DKpRV9RQzb-TLg=s150-no",
+    "cover": "https://lh3.googleusercontent.com/ebcv10TjY_Si8mzKfQMT-k1tmJ56HHJjN_NqAHSpHmDsKTOE2dX8ALl_p2WaTLpCWjWqiatCjBaPNs4BYQE12A3Ce9HSEIg6zknr52UGowXj-AAw2KbMYW2MdaJGbytlXzGyVtScX0AxlOCemChGRFNZKrZxqLMGyw3nb1zjOBRK0i0uSzeRRNMo3HNwpMSHzT2PPHGt3yZm2OPklFxRiEC994lk7ZY5p4BrwKm8DEQXPurk5ixj0dB6HeSgMaH2sRw5hnLTYagU72Oj9_jonwuoafoY3ILXfaRl3Q6cwQqJL4i8A2EbM4uRSzQ08izjO7KvlMlTrm8FaE4g4rF4do-KOjRW7SR9z9eJZC8YmDATUSl6akR-x3vTQjKYIhFYj2_9TJmmfKCbTfUdWqljfnMIPDtlje9LttXJN-ysw0PI4X5Ut14mccobLWzJUgyqGRQ1-4PDkvMWiJbXuNXmGWQougYdzMVDGq2Yj-ea-ZiS5ugYArj4hGsOTKTqtVPIzgj4G48a2bCE2dWzNstE0ldNKj2ilk24yJMBxycrjQRv9YUr65ApJcgor3HIRIJ36L_Lf9Or6C9B33DefzcVqcBPPote68agLAxoeG6HCqQrr3DBDw=w1920-h1080-no",
+    "postsPerPage": "10",
+    "googleAnalytics": "UA-83770100-1",
+    "disqus": "tr00per"
+  },
+  "socialnetwork": {
+    "twitter": "https://twitter.com/tr00per87",
+    "linkedin": "https://www.linkedin.com/in/arturczajka",
+    "github": "https://github.com/tr00per"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "ichi"
   }
 }
