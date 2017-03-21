@@ -1,4 +1,0 @@
-= Tytuł
-:hp-image:
-:published_at:
-:hp-tags:
